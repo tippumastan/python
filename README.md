@@ -1,2 +1,2 @@
 # python
-Add my python learning
+You find my python learnings here
